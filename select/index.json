@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Hibana",
+  "base_artist": "THE SIXTH LIE",
+  "createdAt": "2026-02-11T09:45:44.811437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hibana",
+      "artist": "THE SIXTH LIE",
+      "has_synced": true,
+      "path": "select/01_Hibana_THE_SIXTH_LIE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hibana",
+      "artist": "Craig Xen",
+      "has_synced": false,
+      "path": "select/02_Hibana_Craig_Xen.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hibana (English ver.)",
+      "artist": "THE SIXTH LIE",
+      "has_synced": true,
+      "path": "select/03_Hibana_(English_ver.)_THE_SIXTH_LIE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HIBANA",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_HIBANA_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HIBANA (English)",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/05_HIBANA_(English)_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HIBANA - Tales of ARISE opening ver. -",
+      "artist": "kankakupiero",
+      "has_synced": true,
+      "path": "select/06_HIBANA_-_Tales_of_ARISE_opening_ver._-_kankakupiero.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HIBANA - Tales of ARISE opening ver. -",
+      "artist": "kankakupiero",
+      "has_synced": false,
+      "path": "select/07_HIBANA_-_Tales_of_ARISE_opening_ver._-_kankakupiero.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hibana",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/08_Hibana_BAND-MAID.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Uso No Hibana",
+      "artist": "Kuroneko",
+      "has_synced": false,
+      "path": "select/09_Uso_No_Hibana_Kuroneko.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hibana",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/10_Hibana_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "HIBANA",
+      "artist": "MindaRyn",
+      "has_synced": false,
+      "path": "select/11_HIBANA_MindaRyn.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MindaRyn - \"HIBANA\" (\"Sengoku Youko OP) | Music Video",
+      "artist": "MindaRyn _",
+      "has_synced": true,
+      "path": "select/12_MindaRyn_-__HIBANA__(_Sengoku_Youko_OP)___Music_Video_MindaRyn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hibana",
+      "artist": "THE SIXTH LIE",
+      "has_synced": true,
+      "path": "select/13_Hibana_THE_SIXTH_LIE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hibana",
+      "artist": "THE SIXTH LIE",
+      "has_synced": true,
+      "path": "select/14_Hibana_THE_SIXTH_LIE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hibana",
+      "artist": "Amamiya Sora",
+      "has_synced": true,
+      "path": "select/15_Hibana_Amamiya_Sora.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "HIBANA -Reloaded-",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/16_HIBANA_-Reloaded-_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "HIBANA -Reloaded- (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/17_HIBANA_-Reloaded-_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ハナヒバナ - Hana Hibana",
+      "artist": "Pastel＊Palettes",
+      "has_synced": true,
+      "path": "select/18_ハナヒバナ_-_Hana_Hibana_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hibana",
+      "artist": "THE SIXTH LIE",
+      "has_synced": true,
+      "path": "select/19_Hibana_THE_SIXTH_LIE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hibana",
+      "artist": "THE SIXTH LIE",
+      "has_synced": false,
+      "path": "select/pl_01_Hibana_THE_SIXTH_LIE.txt"
+    }
+  ]
+}
